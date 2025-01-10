@@ -1,0 +1,28 @@
+* {
+  font-family: Merriweather;
+}
+
+/* header section */
+.banner-photo {
+  color: white;
+  text-align: center;
+  background-image: url(images/BannerImage.png);
+  width: 1320px;
+  height: 600px;
+  margin: 20px 100px 50px;
+}
+.hny {
+  font-size: 40px;
+  font-weight: 400;
+}
+.hny-party {
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 80px;
+}
+
+/* footer section */
+footer{
+    color: white;
+    background-color: black;
+}
